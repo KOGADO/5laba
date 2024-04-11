@@ -1,0 +1,41 @@
+﻿<Window x:Class="_5_labka.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5_labka"
+        mc:Ignorable="d"
+        Title="Admin" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="ProductCategories" Content="Категории продуктов" Click="ProductCategories_Click"/>
+        <Button x:Name="Products" Content="Продукты" Grid.Row="1" Click="Products_Click_1"/>
+        <Button x:Name="Customers" Content="Покупатели" Grid.Row="2" Click="Customers_Click"/>
+        <Button x:Name="Orders" Content="Заказы" Grid.Row="3" Click="Orders_Click"/>
+        <Button x:Name="PromotionalCodes" Content="Промокоды" Grid.Row="4" Click="PromotionalCodes_Click"/>
+        <Button x:Name="OrderDetails" Content="Детали заказа" Grid.Row="5" Click="OrderDetails_Click"/>
+        <Button x:Name="Servis" Content="Услуги" Grid.Row="6" Click="Servis_Click"/>
+        <Button x:Name="Returnss" Content="Возврат товара" Grid.Row="7" Click="Returnss_Click"/>
+        <Button x:Name="Roles" Content="Роли" Grid.Row="8" Click="Roles_Click"/>
+        <Button x:Name="Employees" Content="Работники" Grid.Row="9" Click="Employees_Click"/>
+        <Frame x:Name="Page" NavigationUIVisibility="Hidden" Grid.Column="1" Grid.Row="0" Grid.RowSpan="10"/>
+        <Button x:Name="exit" Content="Выход в окно регистрации" Grid.Row="10" Grid.ColumnSpan="2" Click="exit_Click"/>
+
+    </Grid>
+</Window>

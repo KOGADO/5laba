@@ -1,0 +1,58 @@
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.csproj.AssemblyReference.cache
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\Admin.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\MainWindow.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\App.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka_MarkupCompile.cache
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka_MarkupCompile.lref
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\5 labka.exe.config
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\5 labka.exe
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\5 labka.pdb
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductCategoriesPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\Admin.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\MainWindow.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductCategoriesPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.g.resources
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\_5_labka.Properties.Resources.resources
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.csproj.GenerateResource.cache
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.csproj.CoreCompileInputs.cache
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.exe
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.pdb
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\EntityFramework.dll
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\EntityFramework.xml
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kogado\source\repos\5 labka\5 labka\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka_Content.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\5 labka.csproj.Up2Date
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductsPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductsPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\CustomersPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\CustomersPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrdersPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrdersPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\PromotionalCodesPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\PromotionalCodesPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrderDetailsPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrderDetailsPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ServisPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ServisPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ReturnssPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ReturnssPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\RolesPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\RolesPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\EmployeesPage.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\EmployeesPage.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\User.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\User.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\CustomersPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrderDetailsPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrdersPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductsPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ReturnssPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ServisPageUser.g.cs
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\CustomersPageUser.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrderDetailsPageUser.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\OrdersPageUser.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ProductsPageUser.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ReturnssPageUser.baml
+C:\Users\kogado\source\repos\5 labka\5 labka\obj\Debug\ServisPageUser.baml
